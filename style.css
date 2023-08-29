@@ -80,6 +80,11 @@ body {
 }
 
 .text-l {
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    border-radius: 50%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
